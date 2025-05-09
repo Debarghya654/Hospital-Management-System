@@ -8,6 +8,6 @@ Run the code:
 3. Run the script 'http://localhost/hospital/'
 
 Login Details:
-1. Login Details for admin: admin/Test@12345
-2. Login Details for Patient: johndoe12@test.com/Test@123
-3. Login Details for Doctor: anujk123@test.com/Test@123
+1. Login Details for admin: admin and Test@12345
+2. Login Details for Patient: johndoe12@test.com and Test@123
+3. Login Details for Doctor: anujk123@test.com and Test@123
